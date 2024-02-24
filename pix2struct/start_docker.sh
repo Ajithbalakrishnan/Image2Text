@@ -1,0 +1,1 @@
+docker run --gpus all -it -v /home/v-labs-test-server1/AB/pix2struct:/opt/hft -w /opt/hft hft_docker:v1 bash
